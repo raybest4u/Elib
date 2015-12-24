@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">elib</string>
+    <string name="search_hint">search</string>
+    <string name="loading">Loading</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放刷新</string>
+    <string name="refreshing">加载中。。。</string>
+    <string name="refresh_succeed">刷新完成</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="pullup_to_load">拉动加载</string>
+    <string name="release_to_load">释放加载</string>
+    <string name="load_succeed">加载完成</string>
+    <string name="load_fail">load fail</string>
+</resources>

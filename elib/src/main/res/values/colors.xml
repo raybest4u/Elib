@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#db77ab</color>
+    <color name="colorPrimaryDark">#efc1d9</color>
+    <color name="colorAccent">#23000000</color>
+
+    <color name="status_bar_back">#ff676767</color> <!-- this is blended with immersive_bars to produce the desired status bar color i.e. background_super_dark -->
+    <color name="white">#ffffff</color>
+    <color name="black">#FF000000</color>
+    <color name="bilibg">#f2f2f2</color>
+    <color name= "black_alpha">#75000000</color>
+    <color name= "black_alpha2">#23000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="mediacontroller_bg_pressed">#ffefc1d9</color>
+    <color name="mediacontroller_bg">#99000000</color>
+
+    <color name="blue">#ff0000ff</color>
+    <color name="green">#ff00ff00</color>
+    <color name="red">#ffff0000</color>
+    <color name="higtlight">#ff0078f0</color>
+    <color name="durationtext">#ff7d7d7d</color>
+    <color name="background">#ffc3ddea</color>
+    <color name="yellow">#ffffcc00</color>
+    <color name="title">#ff274462</color>
+    <color name="gray">#ff333333</color>
+    <color name="gray2">#ff555555</color>
+    <color name="transparentblue">#445CACEE</color>
+    <color name="bili_red">#db77ab</color>
+    <color name="bili_red2">#efc1d9</color>
+    <color name="bili_red3">#fcf4f8</color>
+
+    <color name="background_dark">#ff333333</color>
+    <color name="background_light">#fafafa</color>
+    <color name="gif_badge_light_image">#40000000</color>
+    <color name="gif_badge_dark_image">#b3ffffff</color>
+
+    <color name="indicator_1">#db99ab</color>
+    <color name="indicator_2">#dbaaab</color>
+    <color name="indicator_3">#dbbbab</color>
+    <color name="indicator_4">#dbccab</color>
+    <color name="transparent_theme">#11da251e</color>
+
+    <color name="separator_line">#ECECEC</color>
+    <color name="subtitle">#999999</color>
+    <color name="theme_primary">#2196F3</color>
+    <color name="theme_primary_dark">#1976D2</color>
+    <color name="theme_primary_light">#BBDEFB</color>
+
+    <color name="theme_background">#FFFFFF</color>
+    <color name="theme_background_inverse">#212121</color>
+
+    <color name="theme_accent_1">#212121</color>
+
+    <color name="theme_primary_trans">#99212121</color>
+
+    <color name="theme_primary_text">#212121</color>
+    <color name="theme_secondary_text">#727272</color>
+    <color name="theme_primary_text_inverted">#ffffff</color>
+    <color name="theme_secondary_text_inverted">#8affffff</color>
+    <color name="theme_icons">#FFFFFF</color>
+    <color name="theme_divider">#B6B6B6</color>
+</resources>
